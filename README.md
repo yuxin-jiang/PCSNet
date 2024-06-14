@@ -51,6 +51,7 @@ python main.py
 
 # Visualization
 
+![](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/Result.png)
 
 # Reference
 ```
