@@ -47,23 +47,13 @@ python main.py
 
 ## 📊 Quantitative Comparisons
 
-PCSNet demonstrates competitive performance against other few-shot anomaly detection (FSAD) methods (such as RD4AD, CFA, PatchCore, RegAD, RFR, and PACKD).
-
-- On the MVTec AD dataset for image-level anomaly detection (AUROC):
-  - Outperforms RegAD by 4.7%, 3.9%, and 3.7% in the 2-shot, 4-shot, and 8-shot settings, respectively.
-  - Outperforms CFA by 9.3%, 7.1%, and 4.0% in the same settings.
-
-- On the MPDD dataset, achieves 80.2% image-level AUROC in the 8-shot setting, surpassing PACKD by 9.7% and RegAD by 8.3%.
-
-- For anomaly localization (pixel-level AUROC), PCSNet ranks first or second on both datasets.
+Experiments are conducted on the MVTec AD and MPDD datasets for few-shot anomaly detection and localization.
 
 ![Quantitative Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/AD_result.png)
 
 ## 🖼️ Qualitative Visualization (Anomaly Localization)
 
 Visualization results show that PCSNet excels in anomaly localization. It accurately captures large anomalous regions (e.g., hazelnut, cable), precisely localizes small anomalies (e.g., capsule, pill, screw), and detects all multiple anomalous regions without omission (e.g., grid, toothbrush).
-
-In contrast, other methods often produce coarse localization or misclassify normal regions, while PCSNet provides significantly more precise anomaly maps.
 
 ![Qualitative Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/Result.png)
 
