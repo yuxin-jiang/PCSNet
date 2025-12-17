@@ -43,6 +43,7 @@ python main.py
 ```
 
 ## 📊 Results (Image-level AUROC on MVTec AD)
+![Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/AD_result.png)
 | Category    | 2-shot          | 4-shot          | 8-shot          |
 |-------------|-----------------|-----------------|-----------------|
 | bottle      | 99.8±0.1       | 99.9±0.2       | 100.0±0.0      |
