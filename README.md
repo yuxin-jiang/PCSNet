@@ -66,12 +66,10 @@ python main.py
 ## 📝 Citation
 If you find this work useful, please consider citing:
 ```
-@article{jiang2024pcsnet,
-  title={Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection},
-  author={Jiang, Yuxin and Shen, Weiming and Cao, Yunkang},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={73},
-  pages={1--12},
+@article{jiang2024prototypical,
+  title={Prototypical learning guided context-aware segmentation network for few-shot anomaly detection},
+  author={Jiang, Yuxin and Cao, Yunkang and Shen, Weiming},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2024},
   publisher={IEEE}
 }
