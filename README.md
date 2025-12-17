@@ -57,7 +57,7 @@ PCSNet demonstrates competitive performance against other few-shot anomaly detec
 
 - For anomaly localization (pixel-level AUROC), PCSNet ranks first or second on both datasets.
 
-![Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/AD_result.png)
+![Quantitative Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/AD_result.png)
 
 ## 🖼️ Qualitative Visualization (Anomaly Localization)
 
@@ -65,7 +65,7 @@ Visualization results show that PCSNet excels in anomaly localization. It accura
 
 In contrast, other methods often produce coarse localization or misclassify normal regions, while PCSNet provides significantly more precise anomaly maps.
 
-![Anomaly Detection and Localization Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/AD_result.png)
+![Qualitative Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/Result.png)
 
 
 ## 📝 Citation
