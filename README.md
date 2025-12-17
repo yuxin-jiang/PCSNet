@@ -17,6 +17,8 @@
   
 ![Framework](Figure/figure1.png)
 
+![Framework](Figure/figure2.png)
+
 ---
 
 </div>
