@@ -61,7 +61,7 @@ Visualization results show that PCSNet excels in anomaly localization. It accura
 ### Dataset 
 An in-house Automotive Plastic Parts Dataset (APPD) is collected to evaluate PCSNet in real-world industrial scenarios.
 
-![Dataset](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/10.png)
+![Dataset](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/10.png =300x)
 
 ### Experimental Results
 
