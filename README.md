@@ -6,7 +6,7 @@
 <h1>PCSNet: Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection</h1>
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxin Jiang<sup>1</sup>&emsp;
-&nbsp;&nbsp;&nbsp;&nbsp;Yunkang Cao<sup>1, </sup>&emsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Yunkang Cao<sup>1 </sup>&emsp;
 &nbsp;&nbsp;&nbsp;&nbsp;Weiming Shen<sup>1, *</sup>&emsp;
 </div>
 <div>
