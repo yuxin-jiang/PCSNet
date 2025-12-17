@@ -16,7 +16,6 @@
 [[Paper]](https://ieeexplore.ieee.org/document/10702559/)
   
 ![Framework](Figure/figure1.png)
-
 ---
 
 </div>
