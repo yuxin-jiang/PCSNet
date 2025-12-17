@@ -56,6 +56,18 @@ Visualization results show that PCSNet excels in anomaly localization. It accura
 
 ![Qualitative Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/Result.png)
 
+## 🏭 Real-World Application: Anomaly Detection on Automotive Plastic Parts
+
+### Dataset 
+An in-house Automotive Plastic Parts Dataset (APPD) is collected to evaluate PCSNet in real-world industrial scenarios.
+
+![Dataset](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/10.png)
+
+### Experimental Results
+
+Qualitative visualizations (Fig. 13) of the automotive plastic parts dataset:
+
+![Dataset](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/11.png)
 
 ## 📝 Citation
 If you find this work useful, please consider citing:
