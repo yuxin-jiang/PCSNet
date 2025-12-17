@@ -42,7 +42,7 @@ Execute the following command for training and evaluation:
 python main.py
 ```
 
-## 📊 Results (Image-level AUROC on MVTec AD)
+## 📊 Results
 ![Results](https://github.com/yuxin-jiang/PCSNet/blob/main/Figure/AD_result.png)
 
 ## 🖼️ Visualization
