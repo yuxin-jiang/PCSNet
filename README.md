@@ -17,8 +17,6 @@
   
 ![Framework](Figure/figure1.png)
 
-![Framework](Figure/figure2.png)
-
 ---
 
 </div>
@@ -34,6 +32,9 @@
 - scipy == 1.7.3
 - matplotlib == 3.5.2
 - tqdm
+- 
+## 🛠️ Framework
+![Framework](Figure/figure2.png)
 
 ## 📥 Dataset
 Download the MVTec dataset [here](https://www.mvtec.com/company/research/datasets/mvtec-ad).
