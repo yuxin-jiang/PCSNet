@@ -32,7 +32,7 @@
 - scipy == 1.7.3
 - matplotlib == 3.5.2
 - tqdm
-- 
+  
 ## 🛠️ Framework
 ![Framework](Figure/figure2.png)
 
