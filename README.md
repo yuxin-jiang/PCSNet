@@ -6,11 +6,11 @@
 <h1>PCSNet: Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection</h1>
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxin Jiang<sup>1</sup>&emsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Yunkang Cao<sup>1, </sup>&emsp;
 &nbsp;&nbsp;&nbsp;&nbsp;Weiming Shen<sup>1, *</sup>&emsp;
-&nbsp;&nbsp;&nbsp;&nbsp;Yunkang Cao<sup>2, *</sup>
 </div>
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>1</sup>Huazhong University of Science and Technology, &nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>Hunan University
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>1</sup>Huazhong University of Science and Technology
 </div>
   
 [[Paper]](https://ieeexplore.ieee.org/document/10702559/)
