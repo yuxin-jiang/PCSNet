@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>1</sup>Huazhong University of Science and Technology
 </div>
   
-[[GitHub Repository]](https://github.com/yuxin-jiang/PCSNet)[[Paper]](https://ieeexplore.ieee.org/document/10702559/)
+[[GitHub Repository]](https://github.com/yuxin-jiang/PCSNet)[[Paper]](https://arxiv.org/pdf/2512.15319)
   
 ![Framework](Figure/figure1.png)
 ---
